@@ -1,9 +1,5 @@
-# Pour Back In
-This is a Potion Craft mod that lets you put potions back in the cauldron.
-
-Finish potions at any time even when they have no effects.
-
-Put potions back in the cauldron to continue from where you left off.
+# Potion Craft File Fixer
+This is a mod that will fix your file if you have the dwarf/travelling merchant bug
 
 
 
@@ -12,7 +8,7 @@ Put potions back in the cauldron to continue from where you left off.
 - Download and install [BepInEx 5.x 64 bit](https://github.com/BepInEx/BepInEx/releases)
   - The contents of the BepInEx zip should be extracted to your PotionCraft steam directory.
   - If properly installed, you should see a `winhttp.dll` file and `BepInEx` folder alongside your `Potion Craft.exe`
-- Download and install [Pour Back In](https://github.com/AndrewFahlgren/PotionCraftFileFixer/releases/)
+- Download and install [Potion Craft File Fixer](https://github.com/AndrewFahlgren/PotionCraftFileFixer/releases/)
   - The contents of the PourBackIn zip should be extracted to your PotionCraft steam directory.
   - If properly installed, you should have a `PotionCraftFileFixer.dll` file at `Potion Craft/BepInEx/plugins`
 
