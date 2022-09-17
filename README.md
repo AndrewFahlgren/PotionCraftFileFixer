@@ -5,7 +5,7 @@ This is a mod that will fix your file if you have the dwarf/travelling merchant 
 
 ## Installation
 
-- Download and install [BepInEx 5.x 64 bit](https://github.com/BepInEx/BepInEx/releases)
+- Download and install [BepInEx 5.x 64 bit](https://github.com/BepInEx/BepInEx/releases/latest)
   - The contents of the BepInEx zip should be extracted to your PotionCraft steam directory.
   - If properly installed, you should see a `winhttp.dll` file and `BepInEx` folder alongside your `Potion Craft.exe`
 - Download and install [Potion Craft File Fixer](https://github.com/AndrewFahlgren/PotionCraftFileFixer/releases/)
