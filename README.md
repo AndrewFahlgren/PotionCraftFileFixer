@@ -12,5 +12,13 @@ There is no need to keep the mod installed after the file has been saved.
   - The contents of the PotionCraftFileFixer zip should be extracted to your PotionCraft steam directory.
   - If properly installed, you should have a `PotionCraftFileFixer.dll` file at `Potion Craft/BepInEx/plugins`
 
-## Automatic installation using thunderstone mod manager
-Coming soon!
+
+### Automatic installation with [r2modman mod manager](https://thunderstore.io/package/ebkr/r2modman/)
+
+r2modman makes it easy to install this mod although you will need to launch Potion Craft from the mod manager in order for the mod to work.
+
+- Go to [Dwarf Merchant Bug File Fixer on Thunderstore](https://potion-craft.thunderstore.io/package/AndrewFahlgren/Dwarf_Merchant_Bug_File_Fixer/) and press "Install with Mod Manager".
+  
+### Steam Deck Installation
+See [this guide](https://docs.google.com/document/d/1Y3PDeMaffkh7x4U3j46YZ9K6AhM2EvRF9v3mAGBFzW4) for installing Potion Craft mods on the Steam Deck
+
