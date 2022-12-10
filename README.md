@@ -1,7 +1,7 @@
 # Potion Craft File Fixer
 This is a mod that will fix your file if you have the dwarf/travelling merchant bug. Just install the mod and save your game. After reloading your save you will get the dwarf and then travelling merchant on the soonest possible days without changing the scheduled arrival day of the alchemist.
 
-
+There is no need to keep the mod installed after the file has been saved.
 
 ## Installation
 
