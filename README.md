@@ -1,4 +1,7 @@
 #  Dwarf/Merchant Bug File Fixer
+
+**Please note: this mod only activates when saving a file. In order to fix a bugged save you will need to install the mod, save the game, and then reload that save.**
+
 This is a mod that will fix your file if you have the dwarf/travelling merchant bug. Just install the mod and save your game. After reloading your save you will get the dwarf and then travelling merchant on the soonest possible days without changing the scheduled arrival day of the alchemist.
 
 There is no need to keep the mod installed after the file has been saved. Uninstalling the mod is as simple as deleting the `PotionCraftFileFixer.dll` from the plugins folder. You can also delete the BepInEx files/folder but they will not affect your game unless a mod is installed in the plugin folder. However keeping the mod installed will not affect your game. The mod is only activated when saving a file with the Dwarf/Merchant bug.
